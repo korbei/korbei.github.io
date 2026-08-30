@@ -1,0 +1,1 @@
+import{j as t}from"./app-BUBErD1I.js";const o={error:"border-error/40 bg-error/10 text-error",success:"border-success/40 bg-success/10 text-success"};function u({kind:r="error",role:e="alert",children:s}){return t.jsx("p",{role:e,className:`rounded-md border px-3 py-2 text-sm ${o[r]}`,children:s})}export{u as A};
