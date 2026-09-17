@@ -1,0 +1,1 @@
+const l=[{value:"plaintext",label:"Plain text"},{value:"json",label:"JSON"},{value:"xml",label:"XML"},{value:"html",label:"HTML"},{value:"css",label:"CSS"},{value:"javascript",label:"JavaScript"},{value:"typescript",label:"TypeScript"},{value:"sql",label:"SQL"},{value:"yaml",label:"YAML"},{value:"markdown",label:"Markdown"},{value:"shell",label:"Shell"}];export{l as E};
